@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi, I'm Benjamin 👋
 
+I'm a software engineering student at <a href="https://wsu.edu/">WSU</a>, who enjoy's solving problems and learning new things. 
+In my free time I love time outdoors, being active, as well as connecting with friends and family. I am always seeking new ways to gain new life experiences through traveling and adventure.
+## Find me around the web 🌎:
+- Connect with me on <a href="https://www.linkedin.com/in/benjamin-michaelis/">LinkedIn</a>💼
+- Catch me taking some <a href="https://www.benjamin.michaelis.net/">pictures</a> in my free time📷
 <!--
-**BenjaminMichaelis/BenjaminMichaelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Some ideas:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
