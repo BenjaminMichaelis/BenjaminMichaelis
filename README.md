@@ -1,4 +1,4 @@
-### Hi, I'm Benjamin <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px">
+# Hi, I'm Ben <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-BenjaminMichaelis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/)](https://www.linkedin.com/in/benjamin-michaelis/)
 [![Instagram Badge](https://img.shields.io/badge/-@benjamin.michaelis-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benjamin.michaelis/)](https://instagram.com/benjamin.michaelis)
 [![Gmail Badge](https://img.shields.io/badge/-gitben@michaelis.net-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gitben@michaelis.net)](mailto:gitben@michaelis.net)
