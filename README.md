@@ -8,9 +8,9 @@
 I'm a full-time software engineering student at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> and part-time adventure seeker/traveler.
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 ## Find me around the web 🌎:
-- [Connect](https://www.linkedin.com/in/benjamin-michaelis/) with me on <!--Icon with Link--> <a href="https://www.linkedin.com/in/benjamin-michaelis/"><img alt="" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/LinkedIn.png" width="15px"/></a>
+- [Connect](https://www.linkedin.com/in/benjamin-michaelis/) with me on <!--Icon with Link--> <a href="https://www.linkedin.com/in/benjamin-michaelis/"><img alt="Spotify" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/" width="60px"/></a>
 - Catch me taking some <a href="https://www.benjamin.michaelis.net/">pictures</a> in my free time <a href="https://www.benjamin.michaelis.net/">📷</a>
-- Check out the [latest playlists](https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA) I am making on <a href="https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA"><img alt="" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/SpotifyLogo.png" width="18px"/></a>
+- Check out the [latest playlists](https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA) I've made on <a href="https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-limegreen?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA" width="60px"/></a>
 - See what adventures I have been having lately on <a href="https://www.strava.com/athletes/9652512"><img alt="Strava" src="https://img.shields.io/badge/-Strava-orange?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/9652512" width="60px"/></a>
 
 
