@@ -2,11 +2,11 @@
 # <a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-BenjaminMichaelis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/)](https://www.linkedin.com/in/benjamin-michaelis/)
-<!-- [![Medium Badge](https://img.shields.io/badge/-@BenjaminMichaelis-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@BenjaminMichaelis)](https://medium.com/@BenjaminMichaelis) -->
 [![Instagram Badge](https://img.shields.io/badge/-@benjamin.michaelis-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benjamin.michaelis/)](https://instagram.com/benjamin.michaelis)
 [![Gmail Badge](https://img.shields.io/badge/-gitben@michaelis.net-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gitben@michaelis.net)](mailto:gitben@michaelis.net)
 [![Github Badge](https://img.shields.io/badge/-benjaminmichaelis-green?style=flat&logo=github&logoColor=white&link=https://github.com/BenjaminMichaelis)](https://github.com/BenjaminMichaelis)
 [![Photography Website Badge](https://img.shields.io/badge/-PhotographySite-gray?style=flat&logo=Photobucket&logoColor=white&link=https://benjamin.michaelis.net)](https://benjamin.michaelis.net)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@BenjaminMichaelis-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@BenjaminMichaelis)](https://medium.com/@BenjaminMichaelis) -->
 
 I'm a full-time software engineering student at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> and part-time adventure seeker/traveler.
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
