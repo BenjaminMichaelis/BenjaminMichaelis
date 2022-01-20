@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-BenjaminMichaelis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/)](https://www.linkedin.com/in/benjamin-michaelis/)
 [![Instagram Badge](https://img.shields.io/badge/-@benjamin.michaelis-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benjamin.michaelis/)](https://instagram.com/benjamin.michaelis)
 [![Gmail Badge](https://img.shields.io/badge/-gitben@michaelis.net-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gitben@michaelis.net)](mailto:gitben@michaelis.net)
-[![Photography Website Badge](https://img.shields.io/badge/-PhotographySite-gray?style=flat&logo=Photobucket&logoColor=white&link=https://benjamin.michaelis.net)](https://benjamin.michaelis.net)
+[![Photography Website Badge](https://img.shields.io/badge/-Photography-gray?style=flat&logo=Photobucket&logoColor=white&link=https://benjamin.michaelis.net)](https://benjamin.michaelis.net)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@BenjaminMichaelis-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@BenjaminMichaelis)](https://medium.com/@BenjaminMichaelis) -->
 
 I'm a full-time software engineering student based in Pullman, Washington at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> and part-time adventure seeker/traveler.
