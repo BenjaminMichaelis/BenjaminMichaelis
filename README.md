@@ -5,7 +5,7 @@
 
 <!-- <a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a> -->
 
-<img align="left" width="250" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png"> 
+<img align="left" width="30%" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png"> 
 
 <samp>
 I'm a full-time software engineering student based in Pullman, Washington at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> and part-time adventure seeker/traveler.
