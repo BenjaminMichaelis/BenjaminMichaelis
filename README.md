@@ -1,5 +1,8 @@
 # Hi, I'm Ben <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px">
 
+<!-- Saving this for there to a be a speed/duration control -->
+<!--[![Hi, I'm Ben](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=130&height=30&lines=Hi%2C+I'm+Ben)](https://git.io/typing-svg)-->
+
 <!-- <a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a> -->
 
 <img align="left" width="250" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png"> 
