@@ -1,5 +1,8 @@
 <!-- # Hi, I'm Ben <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px"> -->
-# <a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a>
+
+<a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a>
+
+<img align="left" width="400" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/octocat/Images/Octocat (5).png"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-BenjaminMichaelis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/)](https://www.linkedin.com/in/benjamin-michaelis/)
 [![Instagram Badge](https://img.shields.io/badge/-@benjamin.michaelis-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benjamin.michaelis/)](https://instagram.com/benjamin.michaelis)
