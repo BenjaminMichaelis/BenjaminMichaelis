@@ -17,7 +17,7 @@ In my free time I love the outdoors, being active, as well as connecting with fr
 👨‍💻 [Connect](https://www.linkedin.com/in/benjamin-michaelis/) with me on <!--Icon with Link--> <a href="https://www.linkedin.com/in/benjamin-michaelis/"><img alt="Spotify" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/" width="60px"/></a> <br>
 📷 Catch me taking some <a href="https://www.benjamin.michaelis.net/">pictures</a> in my free time <a href="https://www.benjamin.michaelis.net/"></a><br>
 🎧 Check out what I'm listening to on <a href="https://open.spotify.com/user/1251087721?si=de5c4e6cdc8a405d"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-limegreen?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA" width="60px"/></a><br>
-🚴 See what adventures I have been having lately on <a href="https://www.strava.com/athletes/9652512"><img alt="Strava" src="https://img.shields.io/badge/-Strava-orange?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/9652512" width="60px"/></a><br>
+🚴 See what adventures I have been up to on <a href="https://www.strava.com/athletes/9652512"><img alt="Strava" src="https://img.shields.io/badge/-Strava-orange?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/9652512" width="60px"/></a><br>
 ☕️ Always up for coffee if you're around
   
   </samp>
