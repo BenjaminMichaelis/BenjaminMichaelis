@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Ben <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px"></h1>
+<h1 align="left"> Hi, I'm Ben <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px"></h1>
 
 <!-- Saving this for there to a be a speed/duration control -->
 <!--[![Hi, I'm Ben](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=130&height=30&lines=Hi%2C+I'm+Ben)](https://git.io/typing-svg)-->
