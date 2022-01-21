@@ -19,7 +19,7 @@ In my free time I love the outdoors, being active, as well as connecting with fr
 📷 Catch me taking some <a href="https://www.benjamin.michaelis.net/">pictures</a> in my free time <br>
 🎧 Check out what I'm listening to on <a href="https://open.spotify.com/user/1251087721?si=de5c4e6cdc8a405d"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA" width="65px"/></a><br>
 🚴 See what adventures I have been up to on <a href="https://www.strava.com/athletes/9652512"><img alt="Strava" src="https://img.shields.io/badge/-Strava-orange?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/9652512" width="60px"/></a><br>
-📖 reading: hard to keep up to date so find me on <img alt="Goodreads" src="https://img.shields.io/badge/-Goodreads-e9e5d0?style=flat&logo=goodreads&logoColor=956f46&link=https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA" width="80px"/></a><br>
+📖 reading: hard to keep up to date so find me on <img alt="Goodreads" src="https://img.shields.io/badge/-Goodreads-e9e5d0?style=flat&logo=goodreads&logoColor=956f46&link=https://www.goodreads.com/user/show/127859004-benjamin-michaelis" width="80px"/></a><br>
 ☕️ Always up for coffee if you're around!
   
 </samp>
