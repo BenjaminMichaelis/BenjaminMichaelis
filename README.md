@@ -1,9 +1,5 @@
  # [![Hi, I'm Ben](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=175&height=40&lines=Hi%2C+I'm+Ben!;+;+)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px">
 
-
-<!-- Saving this for there to a be a speed/duration control -->
-
-
 <!-- <a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a> -->
 
 <img align="left" width="30%" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png"> 
