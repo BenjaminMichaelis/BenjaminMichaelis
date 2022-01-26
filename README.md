@@ -1,4 +1,4 @@
- # [![Hi, I'm Ben](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=175&height=40&lines=Hi%2C+I'm+Ben!;+;+)](https://www.benjamin.michaelis.net)  <a href="https://www.benjamin.michaelis.net"> <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px"> </a>
+# [![Hi, I'm Ben](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=175&height=40&lines=Hi%2C+I'm+Ben!;+;+)](https://www.benjamin.michaelis.net)  <a href="https://www.benjamin.michaelis.net"> <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/wave.gif" width="30px"> </a>
 
 <!-- <a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a> -->
 
@@ -36,5 +36,6 @@ Find me around the web 🌎:
 [![Photography Website Badge](https://img.shields.io/badge/Photography-gray?style=flat&logo=Photobucket&logoColor=white&link=https://benjaminphotography.michaelis.net)](https://benjaminphotography.michaelis.net)
 [![Gmail Badge](https://img.shields.io/badge/gitben@michaelis.net-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gitben@michaelis.net)](mailto:gitben@michaelis.net)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@BenjaminMichaelis-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@BenjaminMichaelis)](https://medium.com/@BenjaminMichaelis) -->
+<img align="right" src="https://gpvc.arturio.dev/benjaminmichaelis">
   
   </div>
