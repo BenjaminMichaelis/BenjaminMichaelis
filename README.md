@@ -16,7 +16,7 @@ Find me around the web 🌎:
 </h2>
 
 <samp>
-
+<br>
 
 [📷](https://www.benjaminphotography.michaelis.net/) Catch me taking some <a href="https://www.benjaminphotography.michaelis.net/">pictures</a> in my free time <br>
 [🧑‍💻](https://www.github.com/BenjaminMichaelis)  Follow to keep up to date on how I am contributing: <a href="https://www.github.com/BenjaminMichaelis"><img alt="Follow" src="https://img.shields.io/github/followers/BenjaminMichaelis.svg?style=social&label=Follow&link=https://www.github.com/BenjaminMichaelis" width="80px"/></a><br>
