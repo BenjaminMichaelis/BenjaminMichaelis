@@ -16,7 +16,6 @@ Find me around the web 🌎:
 </h2>
 
 <samp>
-<br>
 
 [📷](https://www.benjaminphotography.michaelis.net/) Catch me taking some <a href="https://www.benjaminphotography.michaelis.net/">pictures</a> in my free time <br>
 [🧑‍💻](https://www.github.com/BenjaminMichaelis)  Follow to keep up to date on how I am contributing: <a href="https://www.github.com/BenjaminMichaelis"><img alt="Follow" src="https://img.shields.io/github/followers/BenjaminMichaelis.svg?style=social&label=Follow&link=https://www.github.com/BenjaminMichaelis" width="80px"/></a><br>
@@ -31,10 +30,11 @@ Find me around the web 🌎:
 
 <div align="left">
   
-[![Website Badge](https://img.shields.io/badge/Personal_Website-blue?style=flat&logo=GoogleChrome&logoColor=white&link=https://benjamin.michaelis.net)](https://benjamin.michaelis.net)
-[![Instagram Badge](https://img.shields.io/badge/benjamin.michaelis-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benjamin.michaelis/)](https://instagram.com/benjamin.michaelis)
-[![Linkedin Badge](https://img.shields.io/badge/BenjaminMichaelis-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/)](https://www.linkedin.com/in/benjamin-michaelis/)
-[![Gmail Badge](https://img.shields.io/badge/gitben@michaelis.net-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gitben@michaelis.net)](mailto:gitben@michaelis.net)
+[![Website Badge](https://img.shields.io/badge/Personal_Website-ff6666?style=flat&logo=GoogleChrome&logoColor=white&link=https://benjamin.michaelis.net)](https://benjamin.michaelis.net)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/BenjaminMichaelis)](https://t.me/BenjaminMichaelis)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benjamin.michaelis/)](https://instagram.com/benjamin.michaelis)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/)](https://www.linkedin.com/in/benjamin-michaelis/)
+<!-- [![Gmail Badge](https://img.shields.io/badge/gitben@michaelis.net-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gitben@michaelis.net)](mailto:gitben@michaelis.net) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/-@BenjaminMichaelis-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@BenjaminMichaelis)](https://medium.com/@BenjaminMichaelis) -->
 <img align="right" src="https://gpvc.arturio.dev/benjaminmichaelis">
   
