@@ -7,7 +7,7 @@
 </a>
 
 <samp>
-I'm a full-time software engineering student based in Pullman, Washington at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> and part-time adventure seeker/traveler.
+I'm a full-time software engineering student based in Pullman, Washington at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a>, Software Intern <a href="https://github.com/intelliTect">@IntelliTect</a>, and part-time adventure seeker/traveler.
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 </samp>
 
