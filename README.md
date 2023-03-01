@@ -18,7 +18,7 @@ Find me around the web 🌎:
 
 <samp>
 
-[📷](https://www.photography.michaelis.net/) Catch me taking some <a href="https://www.photography.michaelis.net/">pictures</a> in my free time <br>
+[📷](https://www.photography.michaelis.net/) Catch me taking some <a href="https://photography.michaelis.net/">pictures</a> in my free time <br>
 [🧑‍💻](https://www.github.com/BenjaminMichaelis)  Follow to keep up to date on how I am contributing: <a href="https://www.github.com/BenjaminMichaelis"><img alt="Follow" src="https://img.shields.io/github/followers/BenjaminMichaelis.svg?style=social&label=Follow&link=https://www.github.com/BenjaminMichaelis" width="80px"/></a><br>
 [🎧](https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA) Check out what I'm listening to on <a href="https://open.spotify.com/user/1251087721?si=de5c4e6cdc8a405d"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/1251087721?si=iMDle1guQ6SY4gFpKHRfEA" width="65px"/></a><br>
 [🚴](https://www.strava.com/athletes/benjamin_michaelis) See what adventures I have been up to on <a href="https://www.strava.com/athletes/benjamin_michaelis"><img alt="Strava" src="https://img.shields.io/badge/-Strava-orange?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/benjamin_michaelis" width="60px"/></a><br>
