@@ -8,7 +8,7 @@
 </a>
 
 <samp>
-I'm a full-time software engineering student based in Pullman, Washington at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a>, Software Intern <a href="https://github.com/intelliTect">@IntelliTect</a>, and part-time adventure seeker/traveler.
+I'm a full-time software developer at <a href="https://github.com/intelliTect">@IntelliTect</a>, <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a> alum (Go Cougs!), and part-time adventure seeker/traveler.
 In my free time I love the outdoors, being active, as well as connecting with friends and family.
 </samp>
 
@@ -35,8 +35,6 @@ Find me around the web 🌎:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/BenjaminMichaelis)](https://t.me/BenjaminMichaelis)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benjamin.michaelis/)](https://instagram.com/benjamin.michaelis)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-michaelis/)](https://www.linkedin.com/in/benjamin-michaelis/)
-<!-- [![Gmail Badge](https://img.shields.io/badge/gitben@michaelis.net-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gitben@michaelis.net)](mailto:gitben@michaelis.net) -->
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.github@relay.benjamin.michaelis.net)](mailto:contact.github@relay.benjamin.michaelis.net)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@BenjaminMichaelis-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@BenjaminMichaelis)](https://medium.com/@BenjaminMichaelis) -->
-<img align="right" src="https://gpvc.arturio.dev/benjaminmichaelis">
-  
-  </div>
+</div>
