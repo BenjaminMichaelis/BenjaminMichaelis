@@ -38,3 +38,5 @@ Find me around the web 🌎:
 [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.github@relay.benjamin.michaelis.net)](mailto:contact.github@relay.benjamin.michaelis.net)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@BenjaminMichaelis-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@BenjaminMichaelis)](https://medium.com/@BenjaminMichaelis) -->
 </div>
+
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBenjaminMichaelis%2FBenjaminMichaelis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false">
